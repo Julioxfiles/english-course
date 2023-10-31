@@ -1,9 +1,3 @@
-# English courses
-
-Teachers: 
-https://www.youtube.com/watch?v=Kl1_HcKNkHU
-
-
 ### The use of Could, Would and Can.
 
 Could, would, and can are all modal verbs and they can be difficult to master. Let's look at each one separately, and then compare some of their more confusing uses.
