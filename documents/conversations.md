@@ -84,9 +84,8 @@ And I use it almost all the time. It changes a little but basically the same thi
 
 Let's now to say that something plays or sound bad, quite the opposite, its the same thing yuo'll hear in those recordings. I wnat you to learn and practice the ELH Skill Set and see for yourself how easy it is, and then you'll know what exactly play in the left hand.
 
-Back in high scool I stumbled on something. There was a pop song I learned to play
-
-
+Back in high scool I stumbled on something. There was a pop song I learned to play,
+I won't say which one, but the main progression in the song, which is the pattern of course, the main progresion in that song used almost every chord that you play in the major key. So I thought, if I could 
 
 
 
