@@ -85,74 +85,24 @@ And I use it almost all the time. It changes a little but basically the same thi
 Let's now to say that something plays or sound bad, quite the opposite, its the same thing yuo'll hear in those recordings. I wnat you to learn and practice the ELH Skill Set and see for yourself how easy it is, and then you'll know what exactly play in the left hand.
 
 Back in high scool I stumbled on something. There was a pop song I learned to play,
-I won't say which one, but the main progression in the song, which is the pattern of course, the main progresion in that song used almost every chord that you play in the major key. So I thought, if I could 
+I won't say which one, but the main progression in the song, which is the pattern of course, the main progresion in that song used almost every chord that you play in the major key. So I thought, if I could change this a little and learn it in every key, I'd be able to play any song in any key i want !. So I started playing this chord progression over and over and made it into a game.I tried to see how fast I could play it. I'd go up and down from one key to the next until I could play it in every key without even thinking. In a pretty short amount of time I got really fast. It catapulted my skill in playing worship music.
+And even now all this years later I see how that little progression was huge for me!. That progression is the last Skill Set.
+
+I call it ECP, which stands for "Every Chord Progression". And want you of learning and begin to practice in different keys like I did. You'd be able to achieve a level of progression you only dreamt of before. It's really is my secret to be able to inprovise easily and play in any key without thinking.
+
+Can you imagine how it would feel to be able to play any song in every key equally well without practicing ? Well, the ECP Skill Set makes this possible.
+
+So 4 whorsip piano skill sets,
+
+1 - 5 for finger independence and dexterity to make melodies and runs easier to play. ERH allows you to sit down and play any song with an instantly pro sound. 
+
+ELH shows you exactly what to play with your left hand at all times.
+
+And ECP to help you move between keys without even thinking.
+
+Once you learn these the right way and practice theme with me, the sky is the limit for you on piano.
+
+All 4 Worship Piano Skill Sets learn and practices are included. This alone adds up to more than 300 videos. But beyond just the skill sets in Worship Piano: Beginner to Pro 2.0 I wnated to give you even more. Tjat's why I've included Piano Music Theory Mad Simple as well. We cover all the basics like notes, scales, traids, chords, intervals, inversions, arpeggios and more. All those specificly for worship music. And also something I call "color chord"
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Uso de Would
-
-Would es un verbo auxiliar, porque por si mismo no significa nada sino que auxilia a otro verbo para que signifique algo distinto. Al usar este verbo auxiliar estas modificando el verbo al que este axilia agregando la terminacion 'ria'. Ejemplos: Comer - Comeria, Dormir - Dormiria, Correr - Correria, Estudiar - Estudiaria, Descansar - Descansaria, Amar - Amaria, etc.
-
-
-1.- Wouldn't be great if you ... ? 
-    No seria genial si tu...
-2.- Would you like some of...?
-    Te gustaria algo de... ?
-3.- I wouldn't eat that if I were you.
-    Yo no comeria eso si fuera tu.
-4.- I would run faster if I had better tennis shoes.
-    Yo correria mas rapido si yo tuviera mejores tennis.
-5.- I would never do that.
-    Yo nunca haria eso.
-6.- Would you agree if I tell you that ... ?    
-    Aceptarias si yo te digo que...?
-7.- Nothing would get done if you weren't here.
-    No se haria nada si no estuvieras aqui.
-
-### Uso de Could
-
-Significa pudo o podria. Se usa podria cuando se usa en frases condicionales en donde se espera que algo mas se diga.
-
-1.- Ellos pudieron studiar ayer.
-    They could study yesterday.
-2.- Luis no pudo ir a la escuela.
-    Luis couldn't go to school
-3.- Pudiste entender la leccion ?
-    Could you understand the lesson ?
-4.- Podrias repetir por favoe ?
-    Coud you repeat plead ?
-5.- Nosotros no pudimos comprar el carro? 
-    We coudn't buy the car.
-6.- I could repeat the video twice.
-    Yo pude repetir el video dos veces.
-
-
-
-
-
-
+![Alt text](image.png)

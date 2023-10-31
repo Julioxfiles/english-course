@@ -1,7 +1,85 @@
 # English courses
 
-Teachers: 
-https://www.youtube.com/watch?v=Kl1_HcKNkHU
+Thanks to the following channels
+
+Francisco Ochoa: https://www.youtube.com/@Pacho8a_
+
+English with Kayla: https://www.youtube.com/@Englishwithkayla
+
+### Pronombres personales (Personal pronouns)
+
+Conjugating the verb "to be" (ser o estar). Present time.
+
+am, are, is.
+
+```
+I am, You are, He is, She is, It is, We are, They are.
+# Yo soy o yo estoy, Tu eres o Tu estas, El es o El esta, Ella es o Ella esta, Ello es o Ello esta, Nosotros somos o Nosotros estamos, Ellos son o Ellos estan.
+
+Examples: 
+I am Julio Acosta # Yo soy Julio Acosta.
+I am 48 years old # Yo soy de 48 años.
+I am a literature teacher and Web Developer # Yo soy un profesor de literatura y desarrollador web.
+I am in a classroom # Yo estoy en un salon de clases.
+I am teaching a class # Yo estoy dando una clase.
+You are Ian # Tu eres Ian.
+You are 18 years old # Tu eres de 18 años.
+You are in the univesity # Tu estas en la universidad.
+You are going to be a valuable resource for Jehovah # Tu vas a ser un valioso recurso para Jehová.
+She is Allison # Ella es Allison.
+She is 14 years old # Ella es de 14 años.
+She is a student # Ella es una estudiante.
+She is at school now. # Ella esta in la escuela ahora.
+She is singing all day # Ella esta cantando todo el dia.
+She is taking piano lessons. # Ella esta tomando lecciones de piano.
+Ian and Allison are going to serve at Betel 
+# Ian y Allison iran a servir en Betel.
+Hadid is my wife # Hadid es mi esposa.
+She is 47 # Ella es de 47 años.
+She is beautiful and smart # Ella es hermosa e inteligente.
+She works at home # Ella trabaja en casa.
+She is reading the bible on daily basis # Ella esta leyendo la biblea todos los dias.
+And she loves Jehovah so much # Y ella ama a Jehova muchisimo.
+We are family # Nosotros somos familia.
+We are at home # Nosotros estamos en casa.
+We are going to a meeting # Nosotros estamos yendo a una reunion.
+We are Jehovah's Witnesses. # Nosotros somos Testigos de Jehova.
+They are a team # Ellos son un equipo.
+They are going to play futball today. # 
+Ellos estan yendo a jugar futball hoy.
+They are going to be happy # Ellos seran felices.
+They are in the futball field now. # Ellos estan en el campo de futball ahora.
+```
+### Parts of a house.
+
+```
+Living room, Dining room, Kitchen, Bedroom, Bathroom, Restroom, Attic, Basement, Backyard, Yard, Garden, Garage.
+```
+
+### Prepositions (Preposiciones)
+
+Es la ubicacion en la que, el sujeto, -una persona o una cosa-, se encuentra respecto a otra. Las preposiciones son palabras que estan antes de una posicion. Y que es una posicion ? La posicion puede ser la silla, la mesa, la sala, el comedor, la cocina la recamara, la casa, el trabajo, la escuela, el centro de la ciudad, el estadio de futbol, etc.
+
+Example:
+```
+The book is on the table # El libro esta sobre la mesa.
+La posicion es: la mesa, la preposicion es: sobre y el sujeto es: el libro.
+```
+
+A few prepositions.
+```
+Under: Debajo de. 
+Over: Por encima de
+On: En/Sobre
+Next to/Beside: Al lado de/Junto a
+In/Inside: En/Dentro de
+By: Cerca de
+Between: Entre
+Behind: Detrás de
+```
+
+To see a complete list of prepositions click [here](documents/prepositions.md).
+
 
 
 ### The use of Could, Would and Can.
@@ -9,7 +87,7 @@ https://www.youtube.com/watch?v=Kl1_HcKNkHU
 Could, would, and can are all modal verbs and they can be difficult to master. Let's look at each one separately, and then compare some of their more confusing uses.
 
 ### Could
-Pasado de can. Pude o podria. Comeria, Beberia, Estaria, Estudiaria, Sonreiria, Correria, Sonaria, Participaria, Haria, Tendria, Sonaria, Leeria, Amaria,  etc.
+Pasado de can. Pude, pudiera o podria. Comeria, Beberia, Estaria, Estudiaria, Sonreiria, Correria, Sonaria, Participaria, Haria, Tendria, Sonaria, Leeria, Amaria,  etc.
 ```
 I could , You could, It could, He could, She could, We could, You could,We could.
 # Yo pude o Yo podria, Tu pudiste o Tu prodias, Ello pudo o Ello podria, El pudo o El podria, Ella pudo o Ella podria, Nosotros pudimos o Nosotros podriamos, Ellos pudieron o Ellos podrian.
@@ -18,6 +96,10 @@ I could have done this if I wanted to.
 # Yo pude hacer hecho esto si yo hubiera querido.
 We could have as many as 10 people for dinner tonight. 
 # Nosotros podriamos tener capacidad para 10 personas en la noche de hoy.
+
+
+We could have won the war. # Nosotros pudimos haber ganado la guerra.
+I could have money today if I had worked more last year. # Yo podria tener dinero hoy si hubiera trabajado mas el año pasado..
 ```
 
 ### Would
