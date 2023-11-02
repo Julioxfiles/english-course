@@ -100,9 +100,7 @@ Between: Entre
 Behind: Detrás de
 ```
 
-To see the whole list of prepositions click [here](documents/prepositions.md).
-
-
+To see the whole list of prepositions click [here](documents/francisco-ochoa-ingles-facil.md).
 
 ### Uso de Would
 
