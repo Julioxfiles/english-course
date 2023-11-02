@@ -14,7 +14,6 @@ Su significado cambia por completo de acuerdo al contexto, por ejemplo, from, qu
 
 No siempre se ubican junto al elemento que modifican, incluso pueden encontrarse al final de la oración, como with o at. 
 
-
 ```
 Under: Debajo de. 
 The The cat is under the tree. # El gato está debajo del árbol. 
@@ -32,6 +31,8 @@ Behind: Detrás de
 Como su nombre lo indica, las preposiciones de lugar manifiestan el origen, destino o ubicación de algo o alguien. Conócelas en la siguiente tabla:
 
 Preposición -> Traducción -> Ejemplo -> Traducción
+
+```
 
 Above -> Encima de, sobre, arriba -> His book is above his computer -> Su libro está encima de su computadora 
 
@@ -88,12 +89,15 @@ Underneath -> Bajo, debajo de -> The living room is right underneath my parent�
 Upon -> Sobre, en, encima de ->
 We will build a school upon that mountain.
 -> Vamos a construir una escuela sobre esa montaña.
+```
 
 ### Preposiciones de tiempo
 
 Estas indican la ubicación temporal de algo o alguien. Las más comunes son estas:
 
 Preposiciones de tiempo -> Traducción -> Ejemplo -> Traducción
+
+```
 
 About-> Alrededor de, aproximadamente ->She is about to arrive -> Ella está a punto de llegar.
 
@@ -120,6 +124,7 @@ Throughout -> A lo largo de -> I will be studying English throughout all next ye
 
 Until -> Hasta -> My girlfriend sings from 10 PM to 3 AM in that bar -> 
 Mi novia canta de 10 PM a 3 AM en ese bar
+```
 
 ### Preposiciones de movimiento
 
@@ -128,6 +133,8 @@ Son las que señalan que un objeto o sujeto está en movimiento. A diferencia de
 Preposiciones de movimiento
 
 Traducción ->  Ejemplo ->  Traducción -> 
+
+```
 
 Across -> A través de ->  The duck walked across the road and nearly got hit by a car. -> El pato caminó a través del camino y casi es arrollado por un carro.
 
@@ -165,6 +172,8 @@ Los submarinos pueden viajar debajo del agua
 Up -> Hacia arriba -> The kids ran up the hill -> 
 Los niños corrieron a lo alto de la colina
 
+```
+
 ### Preposiciones de ubicación.
 
 Se trata de las tres preposiciones clásicas para expresar la ubicación de algo o de alguien:
@@ -175,19 +184,17 @@ Cuándo usarla
 
 Ejemplo ->  Traducción 
 
+```
 In -> Se usa para ubicar en un área 
-```
+
 They live in Guadalajara -> Ellos viven en Guadalajara
-```
 
 At -> Se usa para ubicar en punto específico
-```
+
 I’ll see you at the school -> Te veo en la escuela
-```
 
 On -> Se usa para ubicar en una superficie
 
-```
 There is a lot of garbage on the floor -> Hay mucha basura en el piso
 ```
 
@@ -197,12 +204,14 @@ Algunas preposiciones suelen usarse en contextos muy específicos tales como las
 
 Preposición -> Uso -> Ejemplo -> Traducción
 
+```
 Ago -> Se usa para tiempos específicos en el pasado -> 
 Ten minutes ago -> Hace diez minutos.
 
 Circa -> Se usa para dar fechas aproximadas -> He was born circa 150 BC -> Él nació hacia 150 a.C.
 
 Per -> Se usa para expresar el costo o cantidad de algo dividido entre otra unidad ->  60 miles per hour -> 60 millas por hora
+```
 
 ### Cómo usarlas después de verbos y adjetivos
 
@@ -210,6 +219,7 @@ Algunas preposiciones siempre deben acompañar un verbo o adjetivo específico. 
 
 Preposición -> Acompaña verbos como -> Acompaña adjetivos como ->  Ejemplo -> Traducción
 
+```
 About -> Worry, complain, read, Happy, sorry -> She worries about the future -> Ella se preocupa del futuro
 
 At -> Arrive (a un espacio o evento), smile, look -> Employed, good -> The dog is looking at the bird -> El perro está mirando al pájaro
@@ -226,3 +236,4 @@ To -> Belong, contribute, lead, refer -> Grateful, opposed, similar ->
 That toy belong to your brother -> Ese juguete pertenece a tu hermano
 
 With -> (dis)agree, argue, deal -> Disappointed, familiar, happy -> They argue with their parents -> Ellos discutieron con sus papás
+```
