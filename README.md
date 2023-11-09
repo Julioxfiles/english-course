@@ -2,10 +2,13 @@
 
 Ingles Facil con Francisco Ochoa [here](documents/prepositions.md).
 
-Francisco Ochoa: https://www.youtube.com/@Pacho8a 
+Francisco Ochoa: https://www.youtube.com/@Pacho8a_
 
 English with Kayla: https://www.youtube.com/@Englishwithkayla
 
+Speak English With Tiffani : https://www.youtube.com/@SpeakEnglishWithTiffani
+
+Here you can practice: https://lingua.com/es/ingles/lectura/wonderful-family/
 
 ### The use of Could, Would and Can.
 

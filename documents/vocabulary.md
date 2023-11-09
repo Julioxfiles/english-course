@@ -1,6 +1,24 @@
 
 ## Vocabulary
 
+Word
+
+a
+```
+a, able, about, above, across, act, action, actually, ad,,addition,
+adjective, afraid, Africa, after, again, against, age, ago, agreed,
+ahead, air, all, allow, almost, alone, along, already, also, although, always, ,am, America , among,, amount , an, and, angle animal,
+another, answer, any, anything, appear, apple, are, area, arms, army,
+around, arrived, art, as, ask, at, away
+
+un, capaz, acerca de, arriba, a través de, acto, acción, en realidad, anuncio, además,
+adjetivo, miedo, África, después, de nuevo, en contra, edad, hace, acordado,
+adelante, aire, todos, permitir, casi, solo, junto, ya, también, aunque, siempre, soy, América, entre,, cantidad, un, y, ángulo animal,
+otro, responder, cualquier, cualquier cosa, aparecer, manzana, son, área, brazos, ejército,
+alrededor, llegó, arte, como, preguntar, en, lejos
+```
+
+
 Nouns: Sustantivos (Cosas)
 
 Head Garlic, Tomatoes on the vine, heirloom tomatoes, Sweet patato, Red onion, yellow onion, white onion, regular patato. Russet. Mushrooms, cauliflower, mugs, napkin, fork, salt, unbrella, chair, sugar caddy, diner, women, chacarcters, server, jacket, breakfast, eggs, tost, ring, wriest hands, coffe, bacon,
