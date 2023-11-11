@@ -137,3 +137,151 @@ Both "may" and "can" are used to indicate that something is allowed, but "may" i
 Making matters even more confusing, I think, is that two of the modal verbs we're discussing are, aside from being modal verbs in their own rights, the past tense forms of two of the others: "might" can be used as the past tense of "may," and "could" is the past tense of "can." "Might" functions as the past tense of "may" mostly in formal contexts, as in "Generously, the senator inquired as to whether she might be of any help to us." "(The usual way of expressing past tense with "may" is "may" followed by "have" and a past participle. The sentence "It may take longer than they expect it to," becomes "It may have taken longer than they expected it to.") "Could" is the usual past tense of "can": "We could see the ocean from the window of the cabin." (see also the usage note at "can")
 
 For further guidance on these verbs, check the entries for each.
+
+### How many - Cuantos ? ligado con 'are'
+
+How many chairs are there ?
+
+How many blue chairs are there in the kitchen ?
+
+How many old books are there on the table ?
+There are five old books on the table.
+
+How many flowers are there in the garden ?
+There are three flowers, but there is one orange flower and there are two pink flowers.
+
+### How much - Cuanto ? ligado con 'is'
+
+How much water is there in the pool ?
+There is a lot of water.
+There's a lot of water.
+
+How much money is there on the table ?
+There is some money on the table.
+
+How much sugar is there in the cup ?
+There's a pound of sugar in the cup.
+
+How much milk is there in the jar ?
+There's a liter of milk in the jar.
+
+How much cheese is there in the sandwich ?
+There's a little.
+
+How much soup is there in the plate ?
+There's a lot of soup in the plate or in the bowl.
+
+### This, These, That, Those
+
+```
+this -> este, esta, esto.
+these -> estos, estas.
+
+that -> ese, esa.
+those -> esos, esas.
+```
+
+Examples:
+
+```
+Is that an apple ?
+No, that is not an apple.
+No, that's not an apple.
+No, that ins't an apple. That is a tomato.
+
+What's that ?
+That's a tomato.
+
+Are these newspapers ?
+No, these are not newspapers.
+No, these aren't newspapers.
+
+What are these ?
+These are books.
+
+Are those your friends ?
+No, those are not my friends.
+
+Who are those ?
+Those are my grandma and my sister.
+```
+
+Lession 14
+### Presente simple - Simple Present
+
+1ra Regla: Se agrega 's' a todas las terceras personas del singular. Es decir, a He, She, It.
+
+2da Regla: Se agrega 'es' cuando los verbos terminen en o, x, e, s, ss, sh, ch. Solo para las terceras personas del singular. Es decir, He, She, It.
+
+3ra Regla: Se agrega 'ies' a todas las palabras que terminen con 'y' precedida de consonante. Esta regla aplica tambien para las terceras personas del singular.
+
+```
+I call Juan
+She calls Juan  
+
+We drink water
+He drinks water 
+
+She goes to the park
+He watches tv.
+They watch tv.
+
+Se agrega 'ies' cuando termina en 'y' precedida de consonante. Como 'ry', 'dy', etc.
+Try - Tries - She tries to get you out of there.
+Study - Studies - He studies the first semester of IT.
+
+Jhon studies English - Juan estudia Ingles
+
+Carmen has a car.
+Jhon has a tv
+The dog has a bowl.
+
+They have a car.
+
+```
+
+Los modal verbs más usados en inglés son 10:
+
+```
+Can.
+Could.
+May.
+Might.
+Will.
+Would.
+Must.
+Shall.
+```
+
+Exercises:
+
+```
+Miguel pesca en el rio.
+Miguel fishes in the river.
+
+Mi hijo juega con sus jugetes.
+My son plays with his toys.
+
+El chef mezcla los ingredientes.
+The chef mixes the ingredients.
+
+Peter tiene clase de ingles hoy.
+Peter has class of English today.
+
+Nosotros pescamos en el rio.
+We fish in the river.
+
+Mis hijos juega con sus jugetes.
+My sons play with their toys.
+
+Mi madre y yo mezclamos los ingredientes.
+My mother and I mix the ingredients.
+
+Ustedes tienen clase de ingles hoy.
+You have class of English today.
+
+```
+
+
+
+
